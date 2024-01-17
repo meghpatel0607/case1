@@ -1,0 +1,1 @@
+------ Master file of the Ideal Git Work Flow-----------
